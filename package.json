@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/impedit-fugiat-ratione-accusantium",
-  "version": "20.41.431",
+  "version": "20.42.431",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -148,5 +148,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/impedit-fugiat-ratione-accusantium/issues"
   },
-  "packageManager": "yarn@4.9.3"
+  "packageManager": "yarn@4.9.4"
 }
